@@ -345,6 +345,4 @@ while True:
                 controle_numero_conta += 1
         case "q":
             exit()
-
-
-
+            
